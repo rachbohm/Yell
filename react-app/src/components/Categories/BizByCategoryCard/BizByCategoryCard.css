@@ -1,0 +1,39 @@
+.biz-image-categorycard{
+  object-fit: cover;
+  width: 500px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+}
+
+.BizByCategoryCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 20px;
+  height: auto;
+  width: auto;
+  text-decoration: none;
+  font-size: 12px;
+  background-color: white;
+}
+
+.biz-name-categorycard {
+  font-size: 24px;
+  color: black;
+}
+
+.biz-name-categorycard {
+  text-decoration: underline;
+}
+
+.biz-img{
+  width:fit-content
+}
+
+.biz-details-category-card{
+  font-size: 15px;
+  padding: 10px
+}

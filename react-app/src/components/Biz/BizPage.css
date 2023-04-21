@@ -1,0 +1,23 @@
+.rec-reviews{
+    font-size: larger;
+    font-weight: 800;
+    font-style: italic;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.review-list-container{
+    display: grid;
+    grid-row: 50% 50%;
+}
+
+.review-card-comp{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.create-review-container{
+    margin-top: -130px;
+}

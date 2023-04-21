@@ -1,0 +1,29 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 40px 30px 20px
+}
+
+.hidden {
+  display: none;
+}
+
+.profile-button-container {
+  display: flex;
+  margin-right: 200px;
+}
+
+.logo-container {
+  display: flex;
+  float: left;
+}
+
+.create-biz-button{
+  color: red;
+  margin-right: 50px;
+}
+
+.logo{
+  width: 100px;
+  height: 60px;
+}
